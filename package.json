@@ -1,0 +1,24 @@
+{
+  "name": "DashDocument",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build-vue.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "sqlite-sync": "^0.3.8",
+    "sync-exec": "^0.6.2"
+  },
+  "keywords": [
+    "VueJS",
+    "VueJS-CN",
+    "Dash",
+    "Node",
+    "Docset",
+    "Documentation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
